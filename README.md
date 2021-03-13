@@ -1,5 +1,4 @@
-![Alt text](logo.svg)
-<img src="logo.svg">
+![Alt text](https://github.com/cann-project-ai/master/blob/main/logo.svg)
 
 
 ## Проект CANN
@@ -12,6 +11,8 @@
 В данный момент в активно трудимся над первым релизом платформы и очень скоро будем рады выложить сюда первые результаты.
 
 А пока вы можете посмотреть как играются котики:
+
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### Подробности Скоро...
