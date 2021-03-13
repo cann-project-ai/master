@@ -1,5 +1,5 @@
-![Alt text](https://github.com/cann-project-ai/master/blob/main/logo.svg)
 
+<img alt="my image" src="https://raw.githubusercontent.com/cann-project-ai/master/blob/main/logo.svg?example=foo&sanitize=true>
 
 ## Проект CANN
 
