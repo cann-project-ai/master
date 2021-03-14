@@ -1,7 +1,7 @@
 
-<img alt="my image" src="https://raw.githubusercontent.com/cann-project-ai/master/main/logo.svg?example=foo&sanitize=true">
-
 # CANN
+
+<img alt="my image" src="https://raw.githubusercontent.com/cann-project-ai/master/main/logo.svg?example=foo&sanitize=true">
 
 Здесь разрабатывается Универсальная платформа AutoML  с открытым исходным кодом - CANN, не требующая специфический знаний в области программирования или алгоритмов машинного обучения.
 
